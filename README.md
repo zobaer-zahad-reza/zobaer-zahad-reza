@@ -40,11 +40,11 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo"  />
 
+<img align="right" height="150" src="https://media.tenor.com/CgGUXc-LDc4AAAAM/hacker-pc.gif"  />
+
   
 </div>
 <h3>Contact with me:</h3>
-<img align="right" height="150" src="https://media.tenor.com/CgGUXc-LDc4AAAAM/hacker-pc.gif"  />
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zobaer-zahad-reza&show_icons=true&locale=en&layout=compact" alt="zobaer-zahad-reza" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zobaer-zahad-reza&show_icons=true&locale=en" alt="zobaer-zahad-reza" /></p>
@@ -52,7 +52,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zobaer-zahad-reza&" alt="zobaer-zahad-reza" /></p>
 
 <div align="left">
-  <a href="zobaerzahad.git@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/zobaerzahad.git@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/zobaer-zahad-reza-4685bb21a/" target="_blank">
