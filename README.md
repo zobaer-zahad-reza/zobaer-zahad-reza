@@ -40,8 +40,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo"  />
 
-  <p>Contact with me</p>
+  
 </div>
+<h3>Contact with me:</h3>
 <img align="right" height="150" src="https://media.tenor.com/CgGUXc-LDc4AAAAM/hacker-pc.gif"  />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zobaer-zahad-reza&show_icons=true&locale=en&layout=compact" alt="zobaer-zahad-reza" /></p>
