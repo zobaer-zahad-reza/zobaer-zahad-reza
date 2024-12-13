@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm ZOBAER</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zobaer-zahad-reza&label=Profile%20views&color=0e75b6&style=flat" alt="zobaer-zahad-reza" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zobaer-zahad-reza" alt="zobaer-zahad-reza" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/zahadzobaer" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/zahadzobaer?logo=twitter&style=for-the-badge" alt="https://twitter.com/zahadzobaer" /></a> </p>
 
-- 🔭 I’m currently working on **Learning**
+- 🔭 I’m currently working on **Nothing**
 
 - 🌱 I’m currently learning **Js**
 
-- 💬 Ask me about **nothing**
+- 💬 Ask me about **Nothing**
 
 - 📫 How to reach me :**zobaerzahad.git@gmail.com**
 
@@ -19,7 +16,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+<a href="https://www.facebook.com/zobaerzahadreza?mibextid=ZbWKwL" target="blank"><img align="center" src="facebook.com" alt="https://facebook.com/zobaerzahadreza" height="30" width="40" /></a>
+
+
 <a href="https://twitter.com/https://twitter.com/zahadzobaer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/zahadzobaer" height="30" width="40" /></a>
+
+
 <a href="https://linkedin.com/in/https://linkedin.com/in/zobaer-zahad-reza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/zobaer-zahad-reza" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/zobaerzahadreza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/zobaerzahadreza" height="30" width="40" /></a>
 </p>
