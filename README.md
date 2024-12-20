@@ -6,9 +6,6 @@
 - 🔭 I’m currently working on **Nothing**
 
 - 🌱 I’m currently learning **Js**
-
-- 💬 Ask me about **Nothing**
-
 - 📫 How to reach me : **Just give me some money.**
 - ⚡ Fun fact :**Fucked UP**
 
