@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fenzo BD - Cart</title>
+<link rel="stylesheet" href="css/style.css">
+<script defer src="js/app.js"></script>
+</head>
+<body>
+<header>
+<h1>Fenzo BD</h1>
+</header>
+<nav>
+<a href="index.html">হোম</a>
+<a href="products.html">প্রোডাক্টসমূহ</a>
+<a href="cart.html">কার্ট</a>
+<a href="blog.html">ব্লগ</a>
+<a href="contact.html">যোগাযোগ</a>
+<a href="about.html">আমাদের সম্পর্কে</a>
+</nav>
+<div class="container">
+<h2>আপনার কার্ট</h2>
+<div id="cart-items"></div>
+<p>মোট: <span id="total">0৳</span></p>
+<h3>চেকআউট</h3>
+<form id="checkout-form" onsubmit="alert('অর্ডার কনফার্ম হয়েছে। বাতিল করা যাবে না।');return false;">
+<label>নাম: <input type="text" required></label><br>
+<label>মোবাইল নম্বর: <input type="tel" required></label><br>
+<label>ঠিকানা: <input type="text" required></label><br>
+<label>ইমেইল: <input type="email" required></label><br>
+<button class="button" type="submit">অর্ডার কনফার্ম</button>
+</form>
+</div>
+<footer>
+<p><a href="https://www.facebook.com/share/1EYkqx7E1Q/">Facebook</a></p>
+<p>© ২০২৫ Fenzo BD. সমস্ত অধিকার সংরক্ষিত। ডিজাইন এবং ডেভেলপ করেছেন StartEdge।</p>
+</footer>
+</body>
+</html>
